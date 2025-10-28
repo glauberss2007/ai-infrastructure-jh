@@ -1,4 +1,4 @@
-# ai-infrastructure-jh
+# ai-infrastructure-kubeflow
 
 Este guia detalha a configuração de um ambiente Kubeflow com suporte a GPU para machine learning e serving de modelos, utilizando Minikube em um PC com Ubuntu. O processo inclui a instalação do Docker, configuração do NVIDIA Container Toolkit para permitir o acesso à GPU, e a inicialização do Minikube com o driver Docker e suporte a GPU. Em seguida, é realizada a instalação do Kubeflow, com ajustes para garantir a estabilidade da versão, e a verificação do dashboard para confirmar o funcionamento dos componentes.
 
